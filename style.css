@@ -1,0 +1,55 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+a{
+    font-size:20px !important;
+    width:400px;
+    border-radius:30px !important;
+    background-color:white;
+    color:black;
+}
+.heading{
+    float:right;
+    margin-right:100;
+    font-family:monospace;
+    color:burlywood;
+    background-color:cornsilk;
+    border-color:darksalmon;
+    border-radius:10px;
+}
+#arrowheh{
+    background-color:burlywood;
+    color:cornsilk;
+    border-width:3px;
+    border-radius:20px;
+    border-color:cornsilk;
+}
+#bedroombutton{
+    float:right;
+    margin-right:90;
+    font-family:serif;
+}
+#tvacbutton{
+    float:right;
+    margin-right:90;
+    font-family:serif;
+}
+#deskbutton{
+    float:right;
+    margin-right:90;
+    font-family:serif;
+}
+#bottlebutton{
+    float:right;
+    margin-right:90;
+    font-family:serif;
+}
+#fruitbutton{
+    float:right;
+    margin-right:90;
+    font-family:serif;
+}
+#bigline{
+    float:right;
+}
